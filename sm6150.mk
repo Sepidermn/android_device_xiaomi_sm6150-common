@@ -168,8 +168,8 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     gralloc.default \
-    gralloc.sm6150 \
-    hwcomposer.sm6150 \
+    gralloc.qcom \
+    hwcomposer.qcom \
     memtrack.sm6150
 
 PRODUCT_PACKAGES += \
